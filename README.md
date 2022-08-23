@@ -1,5 +1,16 @@
-<h3 align="center">Olá sou Luana Pereira, Desenvolvedora de software frontend 👋 </h3>
+<p align="center">
+  <img src="https://github.com/Luaanaapereiraa/Luaanaapereiraa/blob/main/assets/header_gif.gif" alt="Oi, eu sou a Luana">
+</p>
 
+<!--
+How to make the bio gif ?
+💜 Thanks to [matyo91](https://github.com/matyo91)
+
+I made my with https://codesandbox.io/s/github-profile-2ijk7
+Then i recorded my screen to gif on Mac with Quicktime  and save result to [assets/github.mov](assets/github.mov)
+This [GIF converter](https://ezgif.com/video-to-gif) help me to create a dedicated command that convert MOV to GIF.
+Then i save result to [assets/github.gif](assets/github.gif)
+-->
 ##
 
 <div align="center">
